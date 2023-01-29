@@ -1,6 +1,12 @@
 # gamedev-suite-install
 Script de instalação de softwares de gamedev para linux
 
+## instruções de execução
+
+rodar os seguntes comandos no terminal:
+- `sudo chmod +x ubuntu_installer.sh` para dar permissão do script rodar
+- `sudo bash ubuntu_installer.sh` para rodar o script 
+
 ## referencia para os softwares
 
 |Software|Categoria|Link|
