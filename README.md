@@ -14,3 +14,12 @@ Script de instalação de softwares de gamedev para linux
 |Blender|Modelagem 3D|https://www.blender.org/|
 |Dust3D|Modelagem 3D|https://docs.dust3d.org/en/latest/install.html|
 |Steam|Loja de jogos e software|https://store.steampowered.com/about/|
+
+### to do
+- mensagens claras do script
+    - nao mostrar textos de instalação dos programas
+    - mostrar textos de confirmação em português coloridos
+- se possivel: fazer o software instalar uma versão da unity direto pela linha de comando e fazer ser acessivel pelo unity hub
+- preconfigurar softwares
+- expandir a lista de softwares
+- no futuro cobrir mais distros linux e possivelmente windows
